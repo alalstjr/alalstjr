@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?text=JJunPro&fontSize=20&rotate=-30)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JJunPro!&fontAlign=80&fontAlignY=40&color=gradient)
