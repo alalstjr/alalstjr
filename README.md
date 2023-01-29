@@ -1,18 +1,16 @@
-<div align="center">
-  
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JJunPro!&fontAlign=80&fontAlignY=40&color=gradient)
+<div align="left">
 
 <h2 align="center">🛠 Teck Stack 🛠</h2>
   
-<h3 align="center">Language</h2>
-<p align="center">
+<h3 align="left">Language</h2>
+<p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-627eb4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </p>
   
-<h3 align="center">Framework & Library</h3>
-<p align="center">
+<h3 align="left">Framework & Library</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Spring-6aae3d?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6aae3d?style=flat&logo=Springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringSecurity-f24746?style=flat&logo=SpringSecurity&logoColor=white"/>
@@ -20,22 +18,6 @@
   <img src="https://img.shields.io/badge/React-01d3f7?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-7942be?style=flat&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Router-f24746?style=flat&logo=ReactRouter&logoColor=white"/>
-  
-  
-  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP-white?style=flat&logo=SAP&logoColor=#0FAAFF"/></a>&nbsp
-  
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HyperledgerFabric-2F3134?style=flat&logo=Hyperledger&logoColor=white"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">Database</h3>
