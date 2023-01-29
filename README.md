@@ -15,7 +15,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6aae3d?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6aae3d?style=flat&logo=Springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringSecurity-f24746?style=flat&logo=SpringSecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lalavel-f82c20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-01d3f7?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-7942be?style=flat&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Router-f24746?style=flat&logo=ReactRouter&logoColor=white"/>
   
   
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
