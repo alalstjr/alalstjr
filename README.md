@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/WebFlux-6aae3d?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MonoFlux-6aae3d?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Reactor-6aae3d?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-6aae3d?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringSecurity-6aae3d?style=flat&logo=SpringSecurity&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Lalavel-f82c20?style=flat&logo=laravel&logoColor=white"/>
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/MySQL-005e87?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-2e5d8e?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-d2281e?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netty-585e6c?style=flat&logo=Netty&logoColor=white"/>
 </p>
   
 <h3 align="left">Infra & Cloud & OS</h3>
