@@ -20,22 +20,22 @@
   <img src="https://img.shields.io/badge/Router-f24746?style=flat&logo=ReactRouter&logoColor=white"/>
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
+<h3 align="left">Database</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-005e87?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-2e5d8e?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-d2281e?style=flat&logo=redis&logoColor=white"/>
 </p>
 
-<h3 align="center">Version Control</h3>
-<p align="center">
+<h3 align="left">Version Control</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/SourceTree-2684ff?style=flat&logo=sourcetree&logoColor=white"/>
 </p>
 
 <h3 align="center"> 🎳 About Me 🎳 </h3>
-<p align="center">
+<p align="left">
   <a href="https://velog.io/@kyu0918"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a>&nbsp
   <a href="https://www.instagram.com/bowling_kyu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>&nbsp
   <a href="https://t.me/kyu_0918"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white&link=https://t.me/kyu_0918"/></a>&nbsp
