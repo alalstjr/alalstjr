@@ -70,8 +70,7 @@
 
 <br>
 
-![](https://github.com/alalstjr/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/alalstjr/github-stats-transparent/blob/output/generated/languages.svg)
-
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=alalstjr&show_icons=true)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falalstjr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
