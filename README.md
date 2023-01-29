@@ -54,6 +54,13 @@
   <img src="https://img.shields.io/badge/DomainDrivenDesign-3386df?style=flat&logo=ddd&logoColor=white"/>
 </p>
 
+<h2 align="center">🛠 Teck Certificate 🛠</h2>
+<p align="left">
+  <a href="https://www.credly.com/users/username.b7786004/badges" target=black>
+    <img src="https://images.credly.com/size/140x140/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/>
+  </a>
+</p>
+  
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="left">
   <a href="https://velog.io/@kyu0918"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a>&nbsp
