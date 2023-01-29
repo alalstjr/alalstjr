@@ -2,14 +2,16 @@
   
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JJunPro!&fontAlign=80&fontAlignY=40&color=gradient)
 
-<h3 align="center">🛠 Teck Stack (Language) 🛠</h3>
+<h2 align="center">🛠 Teck Stack 🛠</h2>
+  
+<h3 align="center">Language</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-627eb4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </p>
   
-<h3 align="center">🛠 Teck Stack (Framework & Library) 🛠</h3>
+<h3 align="center">Framework & Library</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6aae3d?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6aae3d?style=flat&logo=Springboot&logoColor=white"/>
@@ -32,7 +34,7 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">🛠 Teck Stack (Version Control) 🛠</h3>
+<h3 align="center">Version Control</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>
