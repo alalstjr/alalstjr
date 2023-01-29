@@ -38,6 +38,13 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/></a>&nbsp
 </p>
 
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005e87?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-2e5d8e?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-d2281e?style=flat&logo=redis&logoColor=white"/>
+</p>
+
 <h3 align="center">Version Control</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
