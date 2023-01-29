@@ -13,6 +13,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Spring-6aae3d?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6aae3d?style=flat&logo=Springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-6aae3d?style=flat&logo=Springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QueryDSL-6aae3d?style=flat&logo=Springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringSecurity-f24746?style=flat&logo=SpringSecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lalavel-f82c20?style=flat&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-01d3f7?style=flat&logo=react&logoColor=white"/>
