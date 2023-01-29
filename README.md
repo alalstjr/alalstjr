@@ -33,12 +33,14 @@
   <img src="https://img.shields.io/badge/Redis-d2281e?style=flat&logo=redis&logoColor=white"/>
 </p>
   
-<h3 align="left">Infra & Cloud</h3>
+<h3 align="left">Infra & Cloud & OS</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Kubernetes-3069df?style=flat&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2193e7?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonCloud-ff9900?style=flat&logo=amazon&logoColor=black"/>
   <img src="https://img.shields.io/badge/OracleCloud-c53d27?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MacOS-333333?style=flat&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-f8c107?style=flat&logo=linux&logoColor=black"/>
 </p>
 
 <h3 align="left">Version Control</h3>
