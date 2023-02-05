@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-2e5d8e?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-d2281e?style=flat&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netty-585e6c?style=flat&logo=Netty&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-19a64e?style=flat&logo=mongodb&logoColor=white"/>
 </p>
   
 <h3 align="left">Infra & Cloud & OS</h3>
