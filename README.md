@@ -57,7 +57,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MSA-3386df?style=flat&logo=msa&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVC-3386df?style=flat&logo=mvc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hexagonal-Architecture(DDD)-3386df?style=flat&logo=ddd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HexagonalArchitecture(DDD)-3386df?style=flat&logo=ddd&logoColor=white"/>
 </p>
 
 <h2 align="center">🛠 Teck Certificate 🛠</h2>
