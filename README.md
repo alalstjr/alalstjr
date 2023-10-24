@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/SourceTree-2684ff?style=flat&logo=sourcetree&logoColor=white"/>
 </p>
   
-<h3 align="left">Architecture & Design Pattern</h3>
+<h3 align="left">Architecture</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/MicroServiceArchitecture(MSA)-3386df?style=flat&logo=msa&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVC-3386df?style=flat&logo=mvc&logoColor=white"/>
