@@ -1,5 +1,13 @@
 <div align="left">
 
+<h2 align="center">Contact</h2>
+
+<h3 align="left">Email</h2>
+
+<p align="left">
+  email : jjun-pro@naver.com
+</p>
+
 <h2 align="center">🛠 Teck Stack 🛠</h2>
   
 <h3 align="left">Language</h2>
