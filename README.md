@@ -5,7 +5,7 @@
 <h3 align="left">Email</h2>
 
 <p align="left">
-  email : jjun-pro@naver.com
+  jjun-pro@naver.com
 </p>
 
 <h2 align="center">🛠 Teck Stack 🛠</h2>
