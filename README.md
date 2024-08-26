@@ -6,6 +6,7 @@
 
 <p align="left">
   <b>jjun-pro@naver.com</b>
+  <b>jjunpro.kim@gmail.com</b>
 </p>
 
 <h2 align="center">🛠 Teck Stack 🛠</h2>
