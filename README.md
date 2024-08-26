@@ -5,8 +5,8 @@
 <h3 align="left">Email</h2>
 
 <p align="left">
-  <b>jjun-pro@naver.com</b> <br/>
-  <b>jjunpro.kim@gmail.com</b>
+  <b>jjunpro.kim@gmail.com</b> <br/>
+  <b>jjun-pro@naver.com</b> 
 </p>
 
 <h2 align="center">🛠 Teck Stack 🛠</h2>
